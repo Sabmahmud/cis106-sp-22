@@ -1,8 +1,8 @@
- ....
- name: Sabrina 
- class: CIS106
- semester: spring 22
- ...
+---
+name: Sabrina Mahmud
+Class: CIS106
+Semester: Spring 22
+---
 
 # Lab2 installing ubuntu 20.04
 
