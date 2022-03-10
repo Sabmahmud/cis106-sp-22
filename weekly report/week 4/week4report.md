@@ -1,8 +1,16 @@
 # Week Report 4
 ## Summary of the presentation
 ### Write your summery here
-* a. ![com](command1.png)
-    ![com](command2.png)
+
+## A table of the commands in the presentation including what the command does and some examples
+
+|command | what it does                                              | Example
+|--------|-----------------------------------------------------------|------------------------|
+|PWD     | use dfor displaying the current working directory         |* pwd destination       |
+|CD      |used for changing  the current working directory           | cd+ destination *cd *cd|
+|IS      | used for displaying all the field inside a given directory|*is -a                  |
+
+## Definitions of the following terms
 
 * File System: The way are stored and organized to simply access to data
 * Current directory: The directory where you now is called the current directory
