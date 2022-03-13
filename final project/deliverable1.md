@@ -25,6 +25,7 @@ Linux is the best-known and most-used open source operating system.It is support
 
 ### Short history of linux
 Linux began in 1991 as a personal project.Its create a new free operating system kernel.The resulting **Linux kernel** has been marked by constant growth throughout its history.In the Linux community,different organizations have combined the available components differently.
+![del](Deliverable1.png)
 
 ### Linux distribution
 * **Slackware**:slackware a oldest linux distribution .Linux operating system designed with the twin goals of ease of use and stability as top priorities.Slackware Linux provides new and experience users alike with a fully featured system.
@@ -37,8 +38,33 @@ Linux began in 1991 as a personal project.Its create a new free operating system
 
 * Red Hat Enterprise Linux: Is a commercial Linux distribution developed by Red Hat.It has a server version and a desktop version.Red Hat has sponsored the CentOS project since 2014.
 
-* >Fedora: Fedora is a linux distribution developed by the Fedora Project sponsored mainly by Red Hat with support from other companies.There are different Fedora editions available: Workstation,Server,CoreOS and loT.Fedora Linux was launched in 2003.
+>Fedora: Fedora is a linux distribution developed by the Fedora Project sponsored mainly by Red Hat with support from other companies.There are different Fedora editions available: Workstation,Server,CoreOS and loT.Fedora Linux was launched in 2003.
 
 ## Open Source VS Closed Source
+* Open source: Open source is software  is distributed under a licensing agreement which allows computer code to be shared,viewed and modified by other users and organizations.
+* Closed Source: Closed source software is software the source code is not free available.Closed source software refers to the computer software which source code is closes means public is not given access the source code.
+  
+### Advantage of Open Source:
+* **Free to use**
+* **No authorized license required**
+* **Developed by individual,group or organization**
+* **Can be UI and API-focused**
+
+### Advantage of Closed Source:
+* **Users Friendly**
+* **Less risk of hacking**
+* **Technical support**
+* **No compliance issue**
+* **Receive Information instantly**
+  
 
 ## The Free software movement:
+Free software movement is a social movement with the goal of presence given freedoms for software users,namely the freedom to run the software.Free software puts its users in control of their own computing. Nowadays the free software movement goes far beyond developing the GNU system.There are the 4 freedoms of free movement which is inspect,use,modify and sell.
+
+## Sources;
+https://linuxscriptshub.com/history-of-linux/
+https://www.mhcc.edu/OLHardwareSoftwareRequirements/
+https://www.tecmint.com/linux-distro-for-power-users/
+https://www.outsource2india.com/software/articles/open-source-software.asp
+https://brandongaille.com/19-pros-and-cons-of-closed-source-software/
+https://www.gnu.org/home.en.html

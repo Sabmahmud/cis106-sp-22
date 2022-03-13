@@ -21,7 +21,7 @@ semester: spring 22
 |usr       | software not essential for system operation such as applications.|
 ### Table 2
 
-|Command| What it does                                     | Syntax         | Example
+|Command| What it does                                     | Syntax         | Example        |
 |pwd    | displaying the current working directory         | pwd            | /home/jdoe     |
 |cd     | changing the current working directory           | cd+ downloads/ | /downloads$ pwd|
 |ls     | displaying all the field inside a given directory|----------------| ---------------|
@@ -48,6 +48,7 @@ semester: spring 22
 ![q4](q4.3.png)
 ![q4](q4.4.png)
 ## Question 5
-![q5](q5.1.png)
 ![q5](q5.2.png)
+![q5](q5.3.png)
+![q5](q5.4.png)
 
