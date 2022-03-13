@@ -2,7 +2,7 @@
 ## Summary of the presentation
 ### Write your summery here
 
-## A table of the commands in the presentation including what the command does and some examples
+### A table of the commands in the presentation including what the command does and some examples
 
 |command | what it does                                              | Example
 |--------|-----------------------------------------------------------|------------------------|
