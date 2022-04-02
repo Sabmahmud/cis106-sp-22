@@ -1,0 +1,39 @@
+Log started: 2022-02-22  09:42:51
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 197283 files and directories currently installed.)
+Preparing to unpack .../libexpat1-dev_2.2.9-1ubuntu0.2_amd64.deb ...
+Unpacking libexpat1-dev:amd64 (2.2.9-1ubuntu0.2) over (2.2.9-1build1) ...
+Preparing to unpack .../libexpat1_2.2.9-1ubuntu0.2_amd64.deb ...
+Unpacking libexpat1:amd64 (2.2.9-1ubuntu0.2) over (2.2.9-1build1) ...
+Setting up libexpat1:amd64 (2.2.9-1ubuntu0.2) ...
+Setting up libexpat1-dev:amd64 (2.2.9-1ubuntu0.2) ...
+Processing triggers for libc-bin (2.31-0ubuntu9.2) ...
+Log ended: 2022-02-22  09:42:54
+
+Log started: 2022-02-24  09:53:22
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 197283 files and directories currently installed.)
+Preparing to unpack .../libsasl2-modules-db_2.1.27+dfsg-2ubuntu0.1_amd64.deb ...
+Unpacking libsasl2-modules-db:amd64 (2.1.27+dfsg-2ubuntu0.1) over (2.1.27+dfsg-2) ...
+Preparing to unpack .../libsasl2-2_2.1.27+dfsg-2ubuntu0.1_amd64.deb ...
+Unpacking libsasl2-2:amd64 (2.1.27+dfsg-2ubuntu0.1) over (2.1.27+dfsg-2) ...
+Preparing to unpack .../libsasl2-modules_2.1.27+dfsg-2ubuntu0.1_amd64.deb ...
+Unpacking libsasl2-modules:amd64 (2.1.27+dfsg-2ubuntu0.1) over (2.1.27+dfsg-2) ...
+Setting up libsasl2-modules:amd64 (2.1.27+dfsg-2ubuntu0.1) ...
+Setting up libsasl2-modules-db:amd64 (2.1.27+dfsg-2ubuntu0.1) ...
+Setting up libsasl2-2:amd64 (2.1.27+dfsg-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.31-0ubuntu9.2) ...
+Log ended: 2022-02-24  09:53:25
+
+Log started: 2022-02-24  09:53:25
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 197283 files and directories currently installed.)
+Preparing to unpack .../snapd_2.54.3+20.04.1ubuntu0.2_amd64.deb ...
+Unpacking snapd (2.54.3+20.04.1ubuntu0.2) over (2.54.3+20.04.1ubuntu0.1) ...
+Setting up snapd (2.54.3+20.04.1ubuntu0.2) ...
+snapd.failure.service is a disabled or a static unit, not starting it.
+snapd.snap-repair.service is a disabled or a static unit, not starting it.
+Processing triggers for mime-support (3.64ubuntu1) ...
+Processing triggers for gnome-menus (3.36.0-1ubuntu1) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for dbus (1.12.16-2ubuntu2.1) ...
+Processing triggers for desktop-file-utils (0.24-1ubuntu3) ...
+Log ended: 2022-02-24  09:53:35
+

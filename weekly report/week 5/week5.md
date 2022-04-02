@@ -6,7 +6,7 @@ semester: spring 22
 # Week report
 
 # mkdir: 
-An internal DoOS/Windows command that creates a new folder directory.
+this create a folder and specify in the folder you are in.
 ### Usage:
 The mkdir command in Linux/Unix allows users to create or make directories.mkdir stands for make directory.mkdir can also set permissions,create multiple directories.
 ### Command:
