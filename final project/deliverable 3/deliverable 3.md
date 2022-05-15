@@ -13,7 +13,7 @@ semester: spring 22
 ### Internet browsing
 Internet browser as a web browser or simply browser and  it a  software application for retrieving ,presenting information resources on the world web.
 Starting to choose any of these we must take into account some factors in which rely on the source of the computer.
-Firefox: the default web browser ubuntu .this is a free and open source software it also has not only its version for desktop but also for mobile devices.
+Firefox: the default web browser ubuntu .this is a free and open source software it also has not only its ver3sion for desktop but also for mobile devices.
 Chrome: this a popular browser all over the world.This browser approximately 250 to 300 b  of ram.
 Opera: It is simple intuitive and easy to use browser widely customizable by installing extensions.
 ### Reading email
